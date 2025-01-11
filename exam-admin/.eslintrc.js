@@ -1,1 +1,0 @@
-examtool_web_common/.eslintrc.js

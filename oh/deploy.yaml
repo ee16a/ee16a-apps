@@ -1,9 +1,0 @@
-build_type: oh_queue
-deploy_type: docker
-memory_limit: 1G
-concurrency: 24
-tasks:
-  - name: slack_notify
-    schedule: "* * * * *"
-  - name: clear_inactive_groups
-    schedule: "* * * * *"

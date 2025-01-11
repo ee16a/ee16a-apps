@@ -1,4 +1,0 @@
-Flask
-gunicorn
-flask-cors
--r common/requirements.txt

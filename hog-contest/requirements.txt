@@ -1,5 +1,0 @@
-flask
-gunicorn
-mysqlclient
-pytz
--r common/requirements.txt

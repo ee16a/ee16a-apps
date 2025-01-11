@@ -1,6 +1,0 @@
-build_type: hugo
-deploy_type: static
-dependencies:
-  - repo: itsvs/hugo-theme-cs61a
-    src: .
-    dest: themes/cs61a

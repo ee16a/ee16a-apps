@@ -1,6 +1,0 @@
-build_type: none
-deploy_type: docker
-permissions:
- - rpc
- - logging
- - cloud_run_admin

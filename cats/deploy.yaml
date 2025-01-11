@@ -1,9 +1,0 @@
-build_type: create_react_app
-deploy_type: hosted
-dependencies:
-  - repo: Cal-CS-61A-Staff/berkeley-cs61a
-    src: src/proj/cats/cats.py
-    dest: server/cats.py
-  - repo: Cal-CS-61A-Staff/berkeley-cs61a
-    src: src/proj/cats/gui.py
-    dest: server/gui.py

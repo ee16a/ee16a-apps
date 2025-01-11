@@ -1,5 +1,0 @@
-build_type: none
-deploy_type: hosted
-permissions:
-  - storage
-  - rpc
